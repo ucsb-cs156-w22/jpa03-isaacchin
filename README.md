@@ -1,4 +1,4 @@
-# demo-spring-react-example: dsre
+# jpa03-isaacchin
 
 Storybook is here:
 
